@@ -1,4 +1,7 @@
+                                                Coding Interview Questions
 # find-closest-value-in-bst
+
+Difficulty: easy
 
 
   Write a function that takes in a Binary Search Tree (BST) and a target integer
